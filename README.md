@@ -1,0 +1,2 @@
+# voice-based-visual-acuity-test
+In this project we have implemented an program that perform visual acuity test, taking user input in form of audio. Also we have integrated eye disease classification module where user with the help of this module can determine certain eye disease based on image of disease. Along with that we have used web scraping which helps users to search information about various diseases. It reduces the hardware required to perform the test thus reducing the cost and space required to perform the test.
